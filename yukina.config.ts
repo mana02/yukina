@@ -8,9 +8,9 @@ const YukinaConfig: Configuration = {
 
   description: "はいてくおーぱーつ,hi-tech-ooparts",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://hi-tech-ooparts.com",
 
-  locale: "en", // set for website language and date format
+  locale: "ja", // set for website language and date format
 
   navigators: [
     {
@@ -37,6 +37,10 @@ const YukinaConfig: Configuration = {
       nameKey: I18nKeys.nav_bar_bandcamp,
       href: "https://mana02.bandcamp.com",
     },
+    {
+  icon: "mdi:github",
+  link: "https://github.com/mana02",
+}
   ],
 
   username: "mana02",
