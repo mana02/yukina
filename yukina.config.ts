@@ -2,7 +2,7 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "はいてくおーぱーつ",
+  title: "はいてくおーぱーつ　工事中",
   subTitle: "hi-tech-ooparts",
   brandTitle: "hi-tech-ooparts",
 
@@ -26,19 +26,23 @@ const YukinaConfig: Configuration = {
       href: "/about",
     },
     {
-      nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      nameKey: I18nKeys.nav_bar_line,
+      href: "https://store.line.me/stickershop/author/33766/ja",
+    },
+    {
+      nameKey: I18nKeys.nav_bar_booth,
+      href: "https://hi-tech-o.booth.pm/itemsa",
+    },
+    {
+      nameKey: I18nKeys.nav_bar_bandcamp,
+      href: "https://mana02.bandcamp.com",
     },
   ],
 
   username: "mana02",
-  sign: "Creative Technologist<br>Exploring media, technology, and creativity.",
+  sign: "デザイン、動画、音楽、アプリとか",
   avatarUrl: "https://yt3.googleusercontent.com/_V0oFKYisPeJgschvC-oi8Eta0T1zeDvco-S5D_JCEK4VxSUjG7M52Trr3xXLIS4n0djVMXg=s160-c-k-c0x00ffffff-no-rj",
   socialLinks: [
-    {
-      icon: "line-md:youtube",
-      link: "https://www.youtube.com/channel/UCsZVIqg7q6iR0Bm49c12omQ",
-    },
     {
       icon: "mdi:storefront",
       link: "https://hi-tech-o.booth.pm/items",
@@ -50,6 +54,10 @@ const YukinaConfig: Configuration = {
     {
       icon: "mdi:soundcloud",
       link: "https://soundcloud.com/manamana_02",
+    },
+    {
+      icon: "line-md:youtube",
+      link: "https://www.youtube.com/channel/UCsZVIqg7q6iR0Bm49c12omQ",
     },
     {
       icon: "mdi:chat",
@@ -75,8 +83,8 @@ const YukinaConfig: Configuration = {
   slugMode: "HASH", // 'RAW' | 'HASH'
 
   license: {
-    name: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    name: null,
+    url: null,
   },
 
   // WIP functions
