@@ -1,5 +1,19 @@
-# Special thanks to:
+## LINEスタンプ
 
-- [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
+[LINE STORE](https://store.line.me/stickershop/author/33766/ja)
 
-- [Astro Fuwari template](https://github.com/saicaca/fuwari) for providing the main design concept and part of the implementation
+## BOOTH
+
+[BOOTH](https://hi-tech-o.booth.pm/items)
+
+## Bandcamp
+
+[Bandcamp](https://mana02.bandcamp.com)
+
+## SoundCloud
+
+[SoundCloud](https://soundcloud.com/manamana_02)
+
+## YouTube
+
+[YouTube](https://www.youtube.com/channel/UCsZVIqg7q6iR0Bm49c12omQ)
