@@ -2,7 +2,7 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "はいてくおーぱーつ　工事中",
+  title: "はいてくおーぱーつ　再構築中",
   subTitle: "hi-tech-ooparts",
   brandTitle: "hi-tech-ooparts",
 
@@ -31,7 +31,7 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_booth,
-      href: "https://hi-tech-o.booth.pm/itemsa",
+      href: "https://hi-tech-o.booth.pm/items",
     },
     {
       nameKey: I18nKeys.nav_bar_bandcamp,
