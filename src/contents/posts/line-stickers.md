@@ -2,7 +2,7 @@
 title: "✿ 東北きりたん ＆ 細江ドットのLINEスタンプ配信中！"
 published: 2026-06-01
 description: "会話の冒険を楽しく彩る、可愛らしいドット絵の使い魔（LINEスタンプ）たちをご紹介します。"
-cover: "/line_stickers_cover.png"
+cover: "/images/line_stickers_cover.png"
 tags: ["LINEスタンプ", "ドット絵", "東北きりたん", "デザイン"]
 category: "デザイン"
 ---
