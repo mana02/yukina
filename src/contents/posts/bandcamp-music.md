@@ -2,7 +2,7 @@
 title: "♪ Bandcamp音楽殿堂：作ったオリジナル曲をフル試聴・配信中！"
 published: 2026-06-01
 description: "感情の波を震わせる、はいてくおーぱーつ特製の音楽アルバムたちを配信している音楽殿堂をご紹介します。"
-cover: "/bandcamp_music_cover.png"
+cover: "/images//bandcamp_music_cover.png"
 tags: ["Bandcamp", "音楽制作", "DTM", "配信"]
 category: "音楽"
 ---
