@@ -2,7 +2,7 @@
 title: "▼ YouTube映像水晶：プロモーション動画や楽曲MVを絶賛公開中！"
 published: 2026-06-01
 description: "音楽と映像のシンクロニシティ。はいてくおーぱーつが仕掛ける不思議な映像クリエイションの世界をご案内します。"
-cover: "/youtube_videos_cover.png"
+cover: "/images/youtube_videos_cover.png"
 tags: ["YouTube", "動画制作", "MV", "映像作品"]
 category: "映像"
 ---
