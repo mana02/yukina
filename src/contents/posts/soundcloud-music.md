@@ -2,7 +2,7 @@
 title: "♬ SoundCloud音の泉：制作途中のスケッチから完成曲まで気軽に試聴！"
 published: 2026-06-01
 description: "直感的にメロディの波形と触れ合える「SoundCloud音の泉」で公開している楽曲たちをご紹介します。"
-cover: "/soundcloud_music_cover.png"
+cover: "/images/soundcloud_music_cover.png"
 tags: ["SoundCloud", "音楽試聴", "BGM", "DTM"]
 category: "音楽"
 ---
