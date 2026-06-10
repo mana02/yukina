@@ -2,7 +2,7 @@
 title: "〇 Google Play：失われた古代の高度技術（ロストテクノロジー・アプリ）たち"
 published: 2026-06-01
 description: "かつて多くの冒険者が愛用していた、現在は非公開（休眠中）の魔法のアプリについてのご紹介と今後の研究報告。"
-cover: "/google_play_apps_cover.png"
+cover: "/images/google_play_apps_cover.png"
 tags: ["Google Play", "Androidアプリ", "アプリ開発", "ロストテクノロジー"]
 category: "アプリ"
 ---
