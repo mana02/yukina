@@ -38,9 +38,9 @@ const YukinaConfig: Configuration = {
       href: "https://mana02.bandcamp.com",
     },
     {
-  icon: "mdi:github",
-  link: "https://github.com/mana02",
-}
+      nameKey: I18nKeys.nav_bar_github,
+      href: "https://github.com/mana02",
+    }
   ],
 
   username: "mana02",
