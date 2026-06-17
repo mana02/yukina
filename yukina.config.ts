@@ -37,6 +37,10 @@ const YukinaConfig: Configuration = {
       nameKey: I18nKeys.nav_bar_bandcamp,
       href: "https://mana02.bandcamp.com",
     },
+    {
+      nameKey: I18nKeys.nav_bar_googleplay,
+      href: "https://play.google.com/store/apps/developer?id=MANA02",
+    },    
     /*{
       nameKey: I18nKeys.nav_bar_github,
       href: "https://github.com/mana02",
