@@ -2,7 +2,7 @@
 title: "♫ BOOTH魔法書庫：OMYほそえ４コマ本 ＆ 音楽ダウンロード販売中！"
 published: 2026-06-01
 description: "オリジナルの４コマ漫画本や、ハイクオリティなデジタル音楽アセットを販売する魔法の書庫をご紹介します。"
-cover: "/images/booth_books_cover.png"
+cover: "/images/booth_books_cover.jpg"
 tags: ["BOOTH", "４コマ漫画", "音楽DL", "同人誌"]
 category: "ショップ"
 ---
