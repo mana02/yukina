@@ -68,6 +68,10 @@ const YukinaConfig: Configuration = {
       link: "https://www.youtube.com/channel/UCsZVIqg7q6iR0Bm49c12omQ",
     },
     {
+      icon: "line-md:googleplay",
+      link: "https://play.google.com/store/apps/developer?id=MANA02",
+    },
+    {
       icon: "mdi:chat",
       link: "https://store.line.me/stickershop/author/33766/ja",
     },
