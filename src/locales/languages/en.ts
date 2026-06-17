@@ -12,6 +12,7 @@ export const en: Translation = {
   [key.nav_bar_line]: "line",
   [key.nav_bar_booth]: "booth",
   [key.nav_bar_bandcamp]: "bandcamp",
+  [key.nav_bar_googleplay]: "googleplay",
   [key.nav_bar_github]: "GitHub",
   [key.nav_bar_search_placeholder]: "Search",
 
