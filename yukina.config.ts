@@ -68,7 +68,7 @@ const YukinaConfig: Configuration = {
       link: "https://www.youtube.com/channel/UCsZVIqg7q6iR0Bm49c12omQ",
     },
     {
-      icon: "mdi:googleplay",
+      icon: "mdi:google-play"
       link: "https://play.google.com/store/apps/developer?id=MANA02",
     },
     {
